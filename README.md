@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Graphic designer by instinct, developer by curiosity. <br><br>🎯 Goals:  <br>- Dive into CI/CD pipelines without drowning.  <br>- Understand DevOps without losing my sanity. <br>- Automate everything I can (and then break it trying). <br><br>🎲 Fun fact: My commits are 80% “final_final_v3”.</p>
+<p align="left">✨ Graphic designer by instinct, developer by curiosity. <br><br>📈 Goals:  <br>- Dive into CI/CD pipelines without drowning.  <br>- Understand DevOps without losing my sanity. <br>- Automate everything I can (and then break it trying). <br><br>🎲 Fun fact: My commits are 80% “final_final_v3”.</p>
 
 ###
 
